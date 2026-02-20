@@ -6,5 +6,7 @@ Author - Sheetal Koul
 ----Configuring git-----
 <br>
 git config --global user.name "My name"
+<br>
 git config --global user.email "example@fmail.com"
+<br>
 git confif --list
