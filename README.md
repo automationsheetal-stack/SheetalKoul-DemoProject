@@ -7,6 +7,6 @@ Author - Sheetal Koul
 <br>
 git config --global user.name "My name"
 <br>
-git config --global user.email "example@fmail.com"
+git config --global user.email "example@gmail.com"
 <br>
 git confif --list
