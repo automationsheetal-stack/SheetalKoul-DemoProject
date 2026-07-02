@@ -1,5 +1,5 @@
 # SheetalKoul-DemoProject
-Sheetal's Git Repository
+Sheetal's Playwright Git Repository
 <br>
 Author - Sheetal Koul
 <br>
