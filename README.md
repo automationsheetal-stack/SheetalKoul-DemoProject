@@ -1,7 +1,7 @@
 # SheetalKoul-DemoProject
 Sheetal's Playwright Git Repository
 <br>
-Author - Sheetal Koul
+Author - Sheetal Koul (QA Engg)
 <br>
 ----Configuring git-----
 <br>
